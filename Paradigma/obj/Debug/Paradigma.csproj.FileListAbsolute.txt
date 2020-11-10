@@ -1,0 +1,7 @@
+C:\Users\Douglas\source\repos\Paradigma\Paradigma\bin\Debug\Paradigma.exe.config
+C:\Users\Douglas\source\repos\Paradigma\Paradigma\bin\Debug\Paradigma.exe
+C:\Users\Douglas\source\repos\Paradigma\Paradigma\bin\Debug\Paradigma.pdb
+C:\Users\Douglas\source\repos\Paradigma\Paradigma\obj\Debug\Paradigma.csprojAssemblyReference.cache
+C:\Users\Douglas\source\repos\Paradigma\Paradigma\obj\Debug\Paradigma.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\source\repos\Paradigma\Paradigma\obj\Debug\Paradigma.exe
+C:\Users\Douglas\source\repos\Paradigma\Paradigma\obj\Debug\Paradigma.pdb
